@@ -1,5 +1,4 @@
 <?php
-include 'ip.php';
-header('Location: login.html');
-exit
-?>
+
+// Forward Vercel requests to normal index.php
+require __DIR__ . '/../public/index.php';
