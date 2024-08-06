@@ -1,4 +1,4 @@
 <?php
-include '/../login.html';
-exit
+header("Location:/../login.html");
+exit;
 
