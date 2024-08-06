@@ -1,4 +1,4 @@
 <?php
-header('Location: /../login.html');
+header('Location: /../index.php');
 exit
 ?>
