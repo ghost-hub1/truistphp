@@ -3,6 +3,6 @@
 
 // include __DIR__ . '/../index.html';
 
- header("Location: /index.html");
-?>
+ header("Location: /login.html");
 
+?>
