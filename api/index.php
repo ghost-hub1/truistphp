@@ -1,8 +1,11 @@
 <?php
 
 
-// include __DIR__ . '/../index.html';
+include __DIR__ . '/../';
 
- header("Location: ../login.html");
+include  '/../login.html';
+
+
+//  header("Location: ../login.html");
 ?>
 
